@@ -1,0 +1,150 @@
+/*Global styles
+--------------------------------*/
+html{
+  box-sizing: border-box;
+}
+
+*, *:before, *:after{
+  box-sizing: inherit;
+}
+
+
+
+h1{
+  font-size: 100px;
+  line-height: 0.5;
+}
+
+h2{
+  font-size: 45px;
+}
+
+h1,h2{
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
+}
+
+.content-wrap{
+
+  width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #343434;
+  margin: 0;
+  padding: 0;
+  /*background: black;*/
+}
+
+img{
+  width: 300px;
+}
+
+#Main{
+  font-size: 20px;
+}
+
+
+
+
+/*About styles
+--------------------------------*/
+.About{
+  color: #F7FFF7;
+  /*background: blue;*/
+  /*text-align: center;*/
+}
+
+section{
+  text-align: left;
+}
+
+p{
+  text-align: left;
+}
+
+header{
+  background: #2F3061;
+}
+
+
+
+
+/*Education styles
+--------------------------------*/
+.Education{
+  background: #F7FFF7;
+}
+
+
+
+
+/*Additional Education styles
+--------------------------------*/
+
+
+
+
+
+/*Skills and Information styles
+--------------------------------*/
+
+
+
+
+/*Certifications
+--------------------------------*/
+
+
+
+
+/*Work Expierience styles
+--------------------------------*/
+.work{
+  background: #A1C6D7;
+}
+
+
+
+
+/*Hobbies and Interests styles
+--------------------------------*/
+
+
+
+
+/*Contact Info styles
+------------------------------*/
+.info{
+  background: #343434;
+  color: #F7FFF7;
+
+
+}
+
+
+.info li{
+  margin-top: 20px;
+
+}
+
+  .info a{
+
+    text-decoration: none;
+    color:white;
+    background: #2F3061;
+    padding: 7px;
+    border-radius: 3px;
+    justify-content: space-between;
+  }
+
+  .info a:hover{
+
+    background: rgba(47, 98, 97, 80%);
+  }
